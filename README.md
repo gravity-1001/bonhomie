@@ -1,1 +1,26 @@
-# bonhomie
+<div class="container">
+  <img src="https://i.imgur.com/VynLUp4.jpeg" alt="Sports Fest Image" />
+  <div class="description">
+    <h2>Bonhomie </h2>
+    <p>
+      Welcome to the ultimate athletic extravaganza — <strong>XYZ Sports Fest 2025</strong>!<br><br>
+
+      It's time to swap your keyboards for cleats and unleash your competitive spirit. Whether you're a sprinter, a strategist on the court, or just love the vibe of sportsmanship — this event has something for you!
+      <br><br>
+
+      🏆 What’s in store?<br>
+      🏃‍♂️ Track & Field events<br>
+      ⚽ Football, Basketball, Cricket tournaments<br>
+      🎯 Fun games, relays, tug of war, and more<br>
+      🥇 Prizes, trophies, and bragging rights!
+      <br><br>
+
+      Come cheer, compete, and celebrate the spirit of sports with us.
+      <br><br>
+      📅 Date: 27th April 2025<br>
+      📍 Location: Main Sports Ground, XYZ Campus<br>
+      🕒 Time: 8 AM - 6 PM
+    </p>
+  </div>
+  <a class="back-btn" href="https://beasponsor.carrd.co/">← Back to Home</a>
+</div>
